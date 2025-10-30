@@ -1,4 +1,4 @@
-# JWT-Authentication-for-Secure-Banking-API-Endpoints
+# JWT-Authentication-for-Secure-Banking-API-Endpoints.
 JWT Authentication for Secure Banking API Endpoints
 <img width="788" height="478" alt="1" src="https://github.com/user-attachments/assets/fc19e49e-f4f0-493e-a9a8-4bf428537d48" />
 <img width="788" height="478" alt="1" src="https://github.com/user-attachments/assets/6fa98355-bdf7-45c8-83ed-b6f006b4c848" />
